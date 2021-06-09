@@ -3,7 +3,7 @@ Click==7.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-pip==19.0.3
+pip==19.2
 setuptools==40.8.0
 Werkzeug==0.15.4
 Flask-MySQLdb==0.2.0
